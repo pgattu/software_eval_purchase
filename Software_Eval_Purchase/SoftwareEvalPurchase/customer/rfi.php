@@ -29,6 +29,7 @@
 	<?php require_once "menu.php"; ?>
 
     <div class="container">
+	  <div class="alert alert-danger">This page is incomplete</div>
 
       <div class="row">
       	  <h1>Requests for Information</h1>
@@ -53,14 +54,14 @@
 			    	<td>Edwin Crown<br>ecrown@email.com<br>310-555-1212</td>
 			    	<td>CRM Software - Salesforce.com</td>
 			    	<td>1 hr</td>
-			    	<td><a href="consult-details.php?id=1">Details</a> | <a href="#consult-reschedule.php?id=1">Reschedule</a> | <a href="#consult-cancel.php?id=1">Cancel</a></td>
+			    	<td><a href="rfi-details.php?id=1">Details</a> | <a href="#rfi-cancel.php?id=1">Cancel</a></td>
 			    </tr>
 			    <tr>
 			    	<td>Jul 18, 2015<br>11:30 am PST</td>
 			    	<td>Maggie Crowley<br>mcrowley@email.com<br>650-555-1212</td>
 			    	<td>Legacy Middleware replacement</td>
 			    	<td>30 mins</td>
-			    	<td><a href="consult-details.php?id=2">Details</a> | <a href="#consult-reschedule.php?id=2">Reschedule</a> | <a href="#consult-cancel.php?id=2">Cancel</a></td>
+			    	<td><a href="rfi-details.php?id=2">Details</a> | <a href="#rfi-cancel.php?id=2">Cancel</a></td>
 			    </tr>
 			  </table>
 		  </div>

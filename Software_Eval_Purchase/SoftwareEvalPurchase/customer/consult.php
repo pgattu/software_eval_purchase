@@ -75,13 +75,15 @@
 			    	<th width="20%">Expert</th>
 			    	<th width="30%">Topic</th>
 			    	<th width="10%">Duration</th>
-			    	<th width="20%">Actions</th>
+			    	<th width="10%">Status</th>
+			    	<th width="10%">Actions</th>
 			    </tr>
 			    <tr>
 			    	<td>Jun 2, 2015<br>3:00 pm PST</td>
 			    	<td>Edwin Crown<br>ecrown@email.com<br>310-555-1212</td>
 			    	<td>CRM Software</td>
 			    	<td>30 mins</td>
+			    	<td>Completed</td>
 			    	<td><a href="consult-details.php?id=3">Details</a></td>
 			    </tr>
 
@@ -90,6 +92,7 @@
 			    	<td>Johnny Salgado<br>jsalgado@email.com<br>530-555-1212</td>
 			    	<td>Master Data Management Software</td>
 			    	<td>1 hr</td>
+			    	<td>Cancelled</td>
 			    	<td><a href="consult-details.php?id=4">Details</a></td>
 			    </tr>
 
@@ -98,6 +101,7 @@
 			    	<td>Chuck Solomon<br>csolomon@email.com<br>424-555-1212</td>
 			    	<td>Discuss my company's ERP strategy</td>
 			    	<td>1 hr</td>
+			    	<td>Completed</td>
 			    	<td><a href="consult-details.php?id=5">Details</a></td>
 			    </tr>
 

@@ -16,11 +16,12 @@
             <li id="menu_research"><a href="research.php">Research</a></li>
             <li id="menu_consult"><a href="consult.php">Consult</a></li>
             <li id="menu_rfi"><a href="rfi.php">Requests for Information</a></li>
-            <li id="menu_poc"><a href="#poc.php">Proof of Concepts</a></li>
+            <li id="menu_poc"><a href="poc.php">Proof of Concepts</a></li>
             <li id="menu_quote"><a href="#rfp.php">Requests for Proposal</a></li>
             <li id="menu_quote"><a href="#quotes.php">Quotes</a></li>
             <li id="menu_order"><a href="#orders.php">Orders</a></li>
             <li id="menu_assets"><a href="#assets.php">Software Assets</a></li>
+            <!-- <li id="menu_assets"><a href="#acitivity.php">Billing Activity</a></li> -->
           </ul>
 
           <!--
